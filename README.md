@@ -24,10 +24,12 @@ git clone https://github.com/Phogo2
 cd Qrcode
 ```
 2. **Créer un environnement virtuel (optionnel mais recommandé) :**
+
+
 python -m venv env
 
 
-3. **Activer l’environnement virtuel :**
+3.   **Activer l’environnement virtuel :**
 
 Windows PowerShell :
 
