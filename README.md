@@ -23,40 +23,39 @@ Il est développé en **Python** et utilise les bibliothèques `qrcode` et `repo
 git clone https://github.com/Phogo2
 cd Qrcode
 ```
-2. ##Créer un environnement virtuel (optionnel mais recommandé) :##
-
+2. **Créer un environnement virtuel (optionnel mais recommandé) :**
 python -m venv env
 
 
-3. ##Activer l’environnement virtuel :##
+3. **Activer l’environnement virtuel :**
 
 Windows PowerShell :
 
 .\env\Scripts\Activate.ps1
 
 
-4. ##Windows CMD :##
+4. **Windows CMD :**
 
 .\env\Scripts\activate.bat
 
 
-5. ##Linux / Mac :##
+5. **Linux / Mac :**
 
 source env/bin/activate
 
 
-6. ##Installer les dépendances :##
+6. **Installer les dépendances :**
 
 pip install -r requirements.txt
 
 
-7. ##Créer un fichier .env si nécessaire pour stocker des variables d’environnement (si ton projet en nécessite).##
+7. **Créer un fichier .env si nécessaire pour stocker des variables d’environnement (si ton projet en nécessite).**
 
 Dans ce projet de base, il n’y a pas de variables sensibles, donc .env est optionnel.
 
 🔹 Utilisation
 
-##Pour générer un QR Code :##
+**Pour générer un QR Code :**
 
 python Qrcode.py
 
