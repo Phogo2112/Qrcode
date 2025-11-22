@@ -1,4 +1,4 @@
-# Générateur de QR Code - Qrcode.py
+# Générateur de QR Code - Qrcode en .pdf et .png
 
 Ce projet permet de générer un **QR Code** à partir d’une URL et de créer automatiquement :  
 - une **image PNG** du QR Code  
